@@ -5,9 +5,9 @@
 
 ## Installation
 - First get the following prepared:
- - A @BotFather bot token. [Tutorial](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token)
- - Your Telegram user ID. Talk with [this](https://t.me/userinfobot) bot
- - [OPTIONAL] Your Rclone config, you need to encode it to [Base64](https://www.base64encode.org)
+  - A @BotFather bot token. [Tutorial](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token)
+  - Your Telegram user ID. Talk with [this](https://t.me/userinfobot) bot
+  - [OPTIONAL] Your Rclone config, you need to encode it to [Base64](https://www.base64encode.org)
 - Next click the Deploy button above, make sure you have a Heroku account
 - Fill in the text fields with the information you prepared
 - Press the `Deploy` button
