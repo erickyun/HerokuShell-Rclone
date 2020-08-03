@@ -10,11 +10,11 @@
  - [OPTIONAL] Your Rclone config, you need to encode it to [Base64](https://www.base64encode.org)
 - Next click the Deploy button above, make sure you have a Heroku account
 - Fill in the text fields with the information you prepared
-- Press the 'Deploy' button
+- Press the `Deploy` button
 - Wait for the app to finish deploying
 - Go to the app's dashboard and go onto the 'Resources' tab
-- On the 'web npm start' worker, click the pencil icon and toggle it off
-- On the 'worker source setup.sh && bash start.sh' worker, click the the pencil icon and toggle it on
+- On the `web npm start` worker, click the pencil icon and toggle it off
+- On the `worker source setup.sh && bash start.sh` worker, click the the pencil icon and toggle it on
 - Now open telegram and use the commands below to interact with your bot
 
 ## Commands
