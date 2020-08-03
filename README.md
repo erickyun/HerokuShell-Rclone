@@ -18,6 +18,7 @@
 - Now open telegram and use the commands below to interact with your bot
 
 ## Commands
+- To use rclone commands do `/run rclone [param]...`
 ```
 run - Execute command
 enter - Send input lines to command
